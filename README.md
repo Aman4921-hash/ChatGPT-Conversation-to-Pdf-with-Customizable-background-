@@ -25,7 +25,7 @@ To use this script, you need a userscript manager installed in your browser:
 - **Safari:** [Userscripts](https://apps.apple.com/us/app/userscripts/id1463298887)  
 
 ### 🔹 **2. Install the Userscript**  
-Click **[here]([link-to-your-userscript.js](https://raw.githubusercontent.com/Aman4921-hash/ChatGPT-Conversation-to-Pdf-with-Customizable-background-/refs/heads/main/chagptpdfgen.js))** to install the script directly from your repository.  
+Click **[here](https://raw.githubusercontent.com/Aman4921-hash/ChatGPT-Conversation-to-Pdf-with-Customizable-background-/refs/heads/main/chagptpdfgen.js))** to install the script directly from your repository.  
 
 Alternatively, you can manually install it by:  
 1. Opening your userscript manager.  
