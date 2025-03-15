@@ -46,14 +46,14 @@ _(Include screenshots of the floating button, menu, and a sample exported PDF)_
 ## 🖼️ **Screenshots**  
 
 ### 📌 Floating PDF Options Button  
-![Floating PDF Button](https://raw.githubusercontent.com/your-username/your-repo/main/images/floating-button.png)  
+![Floating PDF Button](https://i.ibb.co/fYWYDhH6/Screenshot-20250316-013118-Via.png)  
 
 ### 📌 PDF Export Settings Menu  
-![Settings Menu](https://raw.githubusercontent.com/your-username/your-repo/main/images/pdf-settings.png)  
+![Settings Menu](https://i.ibb.co/nMy7C9vS/Screenshot-20250316-013128-Via.png)  
 
 ### 📌 Sample Exported PDF  
-![Generated PDF](https://raw.githubusercontent.com/your-username/your-repo/main/images/sample-pdf.png)  
-
+![Generated PDF](https://i.ibb.co/27Gm3WLc/Screenshot-20250316-013351-Drive.png)  
+![Generated PDF](https://i.ibb.co/BVkDnrMg/Screenshot-20250316-013438-Drive.png)
 ---
 
 ## ⚙️ **Customization Options**  
